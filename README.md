@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **React Js**
 
-- 📝 I recently started writing articles on [Java](Java)
+- 📝 I recently started writing articles on Java
 
 - 💬 Ask me about **Spring Boot, Appian and Collaboration**
 
