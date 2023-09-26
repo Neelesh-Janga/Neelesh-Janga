@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot Microservices and JavaScript**
 
-- 👯 I’m looking to collaborate on **Full Stack & Appian Projects**
+- 👯 I’m looking to collaborate on **Full Stack Web Development & Appian Projects**
 
 - 🤝 I’m looking for help with **React JS**
 
