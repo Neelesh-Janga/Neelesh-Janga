@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Neelesh Janga</h1>
-<h3 align="center">A passionate Full Stack Web Developer & an AI enthusiastic from India</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neelesh Janga</h1>
+<h3 align="center">A passionate Full Stack Web Developer & an AI enthusiastic from India</h3><br>
 
 - 🔭 I’m currently working on **Full Stack Web & Appian Applications**
 
@@ -14,13 +14,13 @@
 - 💬 Ask me about **Spring Boot, Appian and Collaboration**
 
 - 📫 How to reach me **neelesh.contact@gmail.com**
-
 <br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/neelesh-janga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelesh-janga" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neelesh-janga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neelesh-janga" height="30" width="40" /></a>
+<a href="https://medium.com/@Neelesh-Janga" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="neelesh-janga" height="25" width="75" /></a>
 </p>
 
 <br>
@@ -38,6 +38,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelesh-Janga&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Neelesh-Janga&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
+<br>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Neelesh-Janga&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<hr>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
