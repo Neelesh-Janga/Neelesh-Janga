@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neelesh Janga</h1>
+<h1 align="center">Hi 🙋🏽‍♂️ I'm Neelesh Janga</h1>
 <h3 align="center">A passionate Full Stack Web Developer & an AI enthusiastic from India</h3><br>
 
 - 🔭 I’m currently working on **Full Stack Web & Appian Applications**
